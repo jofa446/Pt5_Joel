@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="star_wars_races">
+        <item>Ewok</item>
+        <item>Gen\'Dai</item>
+        <item>Genosià</item>
+        <item>Gorax</item>
+        <item>Gungan</item>
+        <item>Hutt</item>
+        <item>Jawa</item>
+        <item>Kel tor</item>
+        <item>Mandalorians</item>
+        <item>Massiff</item>
+        <item>Mon Calamari</item>
+        <item>Moradors de les sorres</item>
+        <item>Neimoidians</item>
+        <item>Porg</item>
+        <item>Quarren</item>
+        <item>Rakatan</item>
+        <item>Rancor</item>
+        <item>Teek</item>
+        <item>Sarlacc</item>
+        <item>Tauntaun</item>
+        <item>Ugnaught</item>
+        <item>Wampa</item>
+        <item>Weequay</item>
+        <item>Wookiee</item>
+        <item>Yuuzhan vong</item>
+        <item>Yuzzum</item>
+        <item>Zabrak</item>
+        <!-- Agrega el resto de las razas -->
+    </string-array>
+
+    <string-array name="star_wars_races_values">
+        <item>ewok</item>
+        <item>gendai</item>
+        <item>genosia</item>
+        <item>gorax</item>
+        <item>gungan</item>
+        <item>hutt</item>
+        <item>jawa</item>
+        <item>keltor</item>
+        <item>mandalorians</item>
+        <item>massiff</item>
+        <item>moncalamari</item>
+        <item>moradors</item>
+        <item>neimoidians</item>
+        <item>porg</item>
+        <item>quarren</item>
+        <item>rakatan</item>
+        <item>rancor</item>
+        <item>teek</item>
+        <item>sarlacc</item>
+        <item>tauntaun</item>
+        <item>ugnaught</item>
+        <item>wampa</item>
+        <item>weequay</item>
+        <item>wookiee</item>
+        <item>yuuzhanvong</item>
+        <item>yuzzum</item>
+        <item>zabrak</item>
+        <!-- Agrega el resto de los valores -->
+    </string-array>
+
+    <string-array name="star_wars_movies">
+        <item>Star Wars: Episode IV - A New Hope</item>
+        <item>Star Wars: Episode V - The Empire Strikes Back</item>
+        <item>Star Wars: Episode VI - Return of the Jedi</item>
+        <item>Star Wars: Episode I - The Phantom Menace</item>
+        <item>Star Wars: Episode II - Attack of the Clones</item>
+        <item>Star Wars: Episode III - Revenge of the Sith</item>
+        <!-- Agrega el resto de las películas -->
+    </string-array>
+
+    <string-array name="star_wars_movies_values">
+        <item>episode_iv</item>
+        <item>episode_v</item>
+        <item>episode_vi</item>
+        <item>episode_i</item>
+        <item>episode_ii</item>
+        <item>episode_iii</item>
+        <!-- Agrega el resto de los valores -->
+    </string-array>
+</resources>

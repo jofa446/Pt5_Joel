@@ -1,0 +1,30 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="editTextPreference"
+        android:title="Nom i Cognoms"
+        android:summary="Introdueix el teu nom i cognoms"/>
+
+    <MultiSelectListPreference
+        android:key="racePreference"
+        android:title="Races preferides Star Wars"
+        android:summary="Selecciona les races preferides"
+        android:dialogTitle="Selecciona les races preferides"
+        android:entries="@array/star_wars_races"
+        android:entryValues="@array/star_wars_races_values"/>
+
+    <SwitchPreference
+        android:key="notificationPreference"
+        android:title="Notificació de notícies d'Star Wars"
+        android:summary="Activa o desactiva les notificacions"/>
+
+    <ListPreference
+        android:key="moviePreference"
+        android:title="Pel·lícula d'Star Wars preferida"
+        android:summary="Selecciona la teva pel·lícula preferida"
+        android:entries="@array/star_wars_movies"
+        android:entryValues="@array/star_wars_movies_values"/>
+
+    <Preference
+        android:key="saveButton"
+        android:title="Guardar"/>
+</PreferenceScreen>
